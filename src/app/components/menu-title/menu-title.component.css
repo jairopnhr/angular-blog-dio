@@ -1,0 +1,19 @@
+.menu-title-componets{
+    color: white;    
+    
+}
+.menu-title-componets >h1{
+    display:  flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    font-size: 135px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu-title-componets >hr{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+
+}
